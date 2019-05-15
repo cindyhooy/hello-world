@@ -1,2 +1,3 @@
 # hello-world
-A startup project
+A startup project. 
+Edited from the website.
